@@ -1,4 +1,4 @@
-# Monte Carlo business risk engine
+# Monte Carlo Business Risk Engine
 
 A course provider pays instructors per class, while its revenue depends on how many students attend. This Python model simulates the first year of operations to estimate annual profit, the risk of running out of cash and the chance of recovering the initial investment.
 
